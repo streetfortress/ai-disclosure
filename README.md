@@ -25,6 +25,15 @@ To that end:
 
 We believe that if an idea is worth pursuing, it's worth talking about - so therefore if you can't be bothered to write about it, it's not worth a code change in the first place.
 
+
+### Ramblings
+
+SFI is about ideas and building things. I never picked sides in the operating-system or text-editor wars, and we are not enlisting in this one (relevant xkcd: https://xkcd.com/378/). Tools change; review, testing, and standing behind your work... these practices are not going anywhere.
+
+> Signed: Steven (sf1tzp)
+
+---
+
 ## Why we publish authorship
 
 In the spirit of _egoless programming_ and _blameless postmortems_, just as much as we don't care _how_ a code change was written, we really don't care _who_ it was written by. Changes are about taking ideas and implementing them: The intent and the direction of the change are accepted by the team (in code review). Asking *who* destroys the information flow; asking *what* improves the system.
@@ -35,9 +44,3 @@ There is a practical reason this matters more now: change volume. When changes c
 
 The same rules apply inbound. AI-assisted contributions are welcome; disclose the assistance, and own what you submit — you are the human accepting intent and direction before we ever see it. Your change gets the same review as ours. Undisclosed machine-generated pull requests that waste reviewer time are closed without ceremony; the problem is never the tool, it is submitting work nobody stood behind.
 
-
-## Ramblings
-
-SFI is about ideas and building things. I never picked sides in the operating-system or text-editor wars, and we are not enlisting in this one (relevant xkcd: https://xkcd.com/378/). Tools change; review, testing, and standing behind your work... these practices are not going anywhere.
-
-> Signed: Steven (sf1tzp)
